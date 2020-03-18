@@ -1,0 +1,5 @@
+export const START_TIMER = 'START_TIMER'
+export const RESTART_TIMER = 'RESTART_TIMER'
+export const CLEAR_TIMER = 'CLEAR_TIMER'
+export const ADD_SECOND = 'ADD_SECOND'
+export const ADD_N_SECONDS = 'ADD_FIVE_SECONDS'
